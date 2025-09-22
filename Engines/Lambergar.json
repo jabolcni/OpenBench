@@ -1,7 +1,7 @@
 {
     "private" : false,
-    "nps"     : 1980000,
-    "source"  : "https://github.com/jabolcni/Lambergar",
+    "nps"     : 1900000,
+    "source"  : "https://git.robolab.si/janezp/Lambergar.git",
 
     "build" : {
         "path"      : "",
